@@ -1,0 +1,107 @@
+AI Resume Ranking & Job Portal 🚀
+📌 Project Overview
+
+The AI Resume Ranking & Job Portal is a web-based application designed to simplify the recruitment process by automatically analyzing and ranking resumes based on job requirements.
+It helps recruiters shortlist candidates efficiently while allowing job seekers to apply for relevant roles through a centralized platform.
+
+This project was developed as part of the B.Tech (KTU 2024 Scheme) curriculum under the subject Basic Concepts of Computer Networks (PBCCT 304).
+
+🎯 Objectives
+
+Automate resume screening using AI-based ranking
+
+Reduce manual effort in shortlisting candidates
+
+Provide a simple and user-friendly job portal
+
+Improve accuracy and fairness in candidate selection
+
+🛠️ Features
+
+User registration and login (Recruiter & Job Seeker)
+
+Resume upload and parsing
+
+AI-based resume ranking
+
+Job posting and application system
+
+Dashboard for recruiters to view ranked resumes
+
+Secure and efficient data handling
+
+🧠 Technologies Used
+
+Frontend: HTML, CSS, JavaScript
+
+Backend: Python (Flask/Django) (if applicable)
+
+Database: MySQL / SQLite
+
+AI/NLP: Resume parsing & keyword matching
+
+Others: REST APIs, Basic Networking Concepts
+
+📂 Project Structure
+AI-Resume-Ranking-Job-Portal/
+│
+├── frontend/        # UI files
+├── backend/         # Server-side logic
+├── database/        # Database schemas
+├── models/          # AI / ranking logic
+├── static/          # CSS, JS, assets
+├── templates/       # HTML templates
+└── README.md
+
+⚙️ Installation & Setup
+
+Clone the repository
+
+git clone https://github.com/your-username/your-repo-name.git
+
+
+Navigate to the project directory
+
+cd your-repo-name
+
+
+Install required dependencies
+
+pip install -r requirements.txt
+
+
+Run the application
+
+python app.py
+
+
+Open in browser
+
+http://localhost:5000
+
+📊 Use Case
+
+Recruiters: Post jobs and receive AI-ranked resumes
+
+Job Seekers: Upload resumes and apply for jobs
+
+Institutions: Demonstrate AI + networking concepts in real-world applications
+
+📚 Academic Relevance
+
+This project demonstrates:
+
+Client–server architecture
+
+Web-based networking concepts
+
+Practical application of AI in recruitment systems
+
+👨‍💻 Team & Credits
+
+Developed by B.Tech Students
+KTU – 2024 Scheme
+
+📄 License
+
+This project is for educational purposes only.
