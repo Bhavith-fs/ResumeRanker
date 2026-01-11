@@ -1,3 +1,115 @@
+<p align="center">
+  <img src="https://via.placeholder.com/900x300?text=AI+Resume+Ranking+%26+Job+Portal" alt="Project Banner">
+</p>
+
+<h1 align="center">🤖 AI Resume Ranking & Job Portal 🚀</h1>
+
+<p align="center">
+  A smart recruitment platform that automatically analyzes and ranks resumes using AI and NLP.
+  <br/>
+  Built as part of the <b>KTU 2024 Scheme</b> – Basic Concepts of Computer Networks (PBCCT 304)
+</p>
+
+---
+
+## ✨ Features
+
+- 🔍 **AI-based Resume Ranking** – automated candidate scoring  
+- 📑 **Resume Parsing** – extract skills, keywords, and relevant info  
+- 👥 **Two Roles:** Recruiter & Job Seeker  
+- 📬 **Job Posting & Application System**  
+- 📊 **Recruiter Dashboard** – view ranked resumes  
+- 🔐 **Secure Data Handling**  
+- 🌐 **Web-based & Accessible Anywhere**
+
+---
+
+## 🎯 Objectives
+
+- Automate resume screening  
+- Reduce manual shortlisting workload  
+- Improve fairness & accuracy in hiring  
+- Provide a simple, user-friendly job portal  
+
+---
+
+## 🧠 Tech Stack
+
+- 🖥️ **Frontend:** HTML, CSS, JavaScript  
+- 🐍 **Backend:** Python (Flask / Django)  
+- 🗄️ **Database:** MySQL / SQLite  
+- 🤖 **AI & NLP:** Resume parsing, keyword matching  
+- 🔌 **APIs:** REST APIs  
+- 🌍 **Networking Concepts:** Client–server model  
+
+---
+
+## 📂 Project Structure
+
+```bash
+AI-Resume-Ranking-Job-Portal/
+│
+├── frontend/        # UI files
+├── backend/         # Server-side logic
+├── database/        # DB schemas
+├── models/          # AI ranking logic
+├── static/          # CSS, JS, assets
+├── templates/       # HTML templates
+└── README.md
+```
+
+---
+
+## ⚙️ Installation & Setup
+
+```bash
+# Clone repo
+git clone https://github.com/your-username/your-repo-name.git
+
+# Enter project folder
+cd your-repo-name
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run app
+python app.py
+```
+
+Then open:
+
+```
+http://localhost:5000
+```
+
+---
+
+## 📊 Use Cases
+
+- 🧑‍💼 **Recruiters:** Post jobs and receive AI-ranked resumes  
+- 👨‍🎓 **Job Seekers:** Upload resumes & apply for roles  
+- 🏫 **Institutions:** Demonstrate AI + networking in real-world systems  
+
+---
+
+## 🎓 Academic Relevance
+
+- Client-server networking  
+- Web technologies  
+- Practical AI application in recruitment  
+
+---
+
+## 👨‍💻 Team & Credits
+
+Developed by **B.Tech Students**  
+**KTU – 2024 Scheme**
+
+---
+
+## 📄 License
+
+This project is intended for **educational purposes only**.
 AI Resume Ranking & Job Portal 🚀
 📌 Project Overview
 
