@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://via.placeholder.com/900x300?text=AI+Resume+Ranking+%26+Job+Portal" alt="Project Banner">
-</p>
 
 <h1 align="center">🤖 AI Resume Ranking & Job Portal 🚀</h1>
 
