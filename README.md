@@ -9,7 +9,7 @@
   <br/>
   Built as part of the <b>KTU 2024 Scheme</b> – Basic Concepts of Computer Networks (PBCCT 304)
 </p>
-# 🤖 AI Resume Ranking & Job Portal 🚀
+ 🤖 AI Resume Ranking & Job Portal 🚀
 
 A smart recruitment platform that automatically analyzes and ranks resumes using AI and NLP. This system helps recruiters shortlist candidates efficiently while allowing job seekers to apply for relevant jobs through a unified portal.
 
