@@ -1,127 +1,157 @@
-
 <h1 align="center">🤖 AI Resume Ranking & Job Portal 🚀</h1>
 
-<p align="center">
-  A smart recruitment platform that automatically analyzes and ranks resumes using AI and NLP.
-  <br/>
-  Built as part of the <b>KTU 2024 Scheme</b> – Basic Concepts of Computer Networks (PBCCT 304)
-</p>
- 🤖 AI Resume Ranking & Job Portal 🚀
+<div align="center">
 
-A smart recruitment platform that automatically analyzes and ranks resumes using AI and NLP. This system helps recruiters shortlist candidates efficiently while allowing job seekers to apply for relevant jobs through a unified portal.
+*A smart AI-powered recruitment platform that analyzes, ranks, and matches resumes with job requirements.*
 
-This project was developed as part of the **KTU 2024 Scheme – Basic Concepts of Computer Networks (PBCCT 304).**
+![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![AI](https://img.shields.io/badge/AI-NLP-orange?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web-FullStack-blue?style=for-the-badge)
+![Database](https://img.shields.io/badge/Database-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+![License](https://img.shields.io/badge/License-Educational-black?style=for-the-badge)
+
+</div>
 
 ---
 
-## ✨ Features
+## 🎯 Overview
 
-- 🔍 AI-based resume ranking
+**AI Resume Ranking & Job Portal** is an intelligent recruitment system that automatically analyzes resumes using **AI and NLP** techniques and ranks candidates based on job requirements.
+
+It helps recruiters shortlist candidates efficiently and provides job seekers with a unified platform to apply for relevant opportunities.
+
+> 🎓 Developed as part of the **KTU 2024 Scheme – Basic Concepts of Computer Networks (PBCCT 304)**.
+
+---
+
+## ✨ Key Features
+
+- 🤖 AI-based resume ranking system
 - 🧾 Automatic resume parsing (skills, keywords, experience extraction)
-- 👥 Two user roles — Recruiter and Job Seeker
+- 👥 Dual user roles — Recruiter & Job Seeker
 - 📩 Job posting and application system
 - 📊 Recruiter dashboard with ranked candidates
-- 🔐 Secure login and data handling
-- 🌍 Web-based access from anywhere
+- 🔐 Secure authentication & data handling
+- 🌍 Web-based platform accessible from anywhere
 
 ---
 
 ## 🎯 Objectives
 
-- Automate resume screening and ranking
-- Reduce manual shortlisting time
-- Improve fairness and transparency in hiring
-- Provide an easy-to-use job portal for students and recruiters
+- ⚡ Automate resume screening and ranking
+- ⏱ Reduce manual shortlisting time
+- ⚖ Improve fairness and transparency in hiring
+- 🧑‍💻 Provide an easy-to-use job portal for students and recruiters
 
 ---
 
 ## 🧠 How It Works
 
-1. Job seeker uploads resume
-2. System extracts key information (skills, qualifications, keywords)
-3. Recruiter posts job with required skill set
-4. AI compares resumes with job requirements
-5. Candidates are ranked automatically
+1. 🧑‍🎓 Job seeker uploads resume  
+2. 🧠 System extracts key information (skills, qualifications, keywords)  
+3. 🧑‍💼 Recruiter posts job requirements  
+4. 🤖 AI compares resumes with job criteria  
+5. 📊 Candidates are ranked automatically  
 
 ---
 
 ## 🧠 Tech Stack
 
-- 🖥️ **Frontend:** HTML, CSS, JavaScript  
-- 🐍 **Backend:** Python (Flask / Django)  
-- 🗄️ **Database:** MySQL / SQLite  
-- 🤖 **AI & NLP:** Resume parsing, keyword matching  
-- 🔌 **APIs:** REST APIs  
-- 🌍 **Networking Concepts:** Client–server model  
+| Layer | Technology |
+|-------|----------|
+| 🎨 Frontend | HTML, CSS, JavaScript |
+| 🐍 Backend | Python (Flask / Django) |
+| 🗄 Database | MySQL / SQLite |
+| 🤖 AI & NLP | Resume parsing, keyword matching |
+| 🔌 APIs | REST APIs |
+| 🌐 Networking | Client–Server Model |
 
 ---
 
-## 🗂️ Project Structure
+## 📁 Project Structure
 
-AI-Resume-Ranking-Job-Portal
+```
+AI-Resume-Ranking-Job-Portal/
 │
-├─ backend/
-├─ frontend/
-├─ database/
-├─ models/
-├─ static/
-├─ templates/
-└─ README.md
+├── frontend/        # UI files
+├── backend/         # Server-side logic
+├── database/        # Database schemas
+├── models/          # AI ranking logic
+├── static/          # CSS, JS, assets
+├── templates/       # HTML templates
+└── README.md
+```
 
 ---
 
-## 🚀 Installation & Setup (Local System)
+## 🚀 Installation & Setup
 
-1. Clone the repository
-   git clone https://github.com/your-username/your-repo-name.git
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/your-username/your-repo-name.git
+cd your-repo-name
+```
 
-2. Navigate to project directory
-   cd your-repo-name
+### 2️⃣ Install Dependencies
+```bash
+pip install -r requirements.txt
+```
 
-3. Install required dependencies
-   pip install -r requirements.txt
+### 3️⃣ Run the Application
+```bash
+python app.py
+```
 
-4. Run the application
-   python app.py
-
-5. Open browser and go to
-   http://localhost:5000
+### 4️⃣ Open in Browser
+```
+http://localhost:5000
+```
 
 ---
 
 ## 🔐 System Modules
 
-- User authentication module
-- Resume upload module
-- AI ranking module
-- Job posting module
-- Recruiter dashboard module
+- 🔑 User Authentication Module  
+- 📄 Resume Upload Module  
+- 🤖 AI Ranking Module  
+- 📩 Job Posting Module  
+- 📊 Recruiter Dashboard Module  
 
 ---
 
 ## 🛠 Future Enhancements
 
-- AI-based interview recommendation
-- Chatbot assistance for applicants
-- Support for multiple resume formats (PDF/DOCX)
-- Advanced ML ranking algorithms
+- 🎤 AI-based interview recommendations
+- 💬 Chatbot assistance for applicants
+- 📄 Support for multiple resume formats (PDF/DOCX)
+- 🧠 Advanced ML-based ranking algorithms
+- 📈 Analytics dashboard with insights
 
 ---
 
-## 📚 Academic Relevance
+## 📊 Use Cases
+
+- 🧑‍💼 Recruiters — Post jobs & view AI-ranked resumes  
+- 👨‍🎓 Job Seekers — Upload resumes & apply for jobs  
+- 🏫 Institutions — Demonstrate AI + networking concepts  
+
+---
+
+## 🎓 Academic Relevance
 
 This project demonstrates:
 
-- Computer networks concepts
-- Full-stack development
-- AI + NLP application in recruitment
-- Practical implementation of client-server model
+- 🌐 Computer networks concepts  
+- 🧩 Full-stack web development  
+- 🤖 AI + NLP in real-world applications  
+- 🔗 Practical implementation of client-server architecture  
 
 ---
 
-## 👨‍💻 Developed By
+## 👨‍💻 Author
 
-B.Tech Students — **KTU 2024 Scheme**
+**Bhavith Madhav**  
+Cybersecurity & Network Security Enthusiast  
 
 ---
 
@@ -131,71 +161,4 @@ This project is intended for **educational and research purposes only**.
 
 ---
 
- 
-## 📂 Project Structure
-
-```bash
-AI-Resume-Ranking-Job-Portal/
-│
-├── frontend/        # UI files
-├── backend/         # Server-side logic
-├── database/        # DB schemas
-├── models/          # AI ranking logic
-├── static/          # CSS, JS, assets
-├── templates/       # HTML templates
-└── README.md
-```
-
----
-
-## ⚙️ Installation & Setup
-
-```bash
-# Clone repo
-git clone https://github.com/your-username/your-repo-name.git
-
-# Enter project folder
-cd your-repo-name
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Run app
-python app.py
-```
-
-Then open:
-
-```
-http://localhost:5000
-```
-
----
-
-## 📊 Use Cases
-
-- 🧑‍💼 **Recruiters:** Post jobs and receive AI-ranked resumes  
-- 👨‍🎓 **Job Seekers:** Upload resumes & apply for roles  
-- 🏫 **Institutions:** Demonstrate AI + networking in real-world systems  
-
----
-
-## 🎓 Academic Relevance
-
-- Client-server networking  
-- Web technologies  
-- Practical AI application in recruitment  
-
----
-
-## 👨‍💻 Team & Credits
-
-Developed by **B.Tech Students**  
-**KTU – 2024 Scheme**
-
----
-
-## 📄 License
-
-This project is intended for **educational purposes only**.
-
+🚀 *AI Resume Ranking — Smarter Hiring Starts Here.*
