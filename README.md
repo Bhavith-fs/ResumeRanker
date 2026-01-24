@@ -162,3 +162,5 @@ This project is intended for **educational and research purposes only**.
 ---
 
 🚀 *AI Resume Ranking — Smarter Hiring Starts Here.*
+
+
