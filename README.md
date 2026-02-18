@@ -6,7 +6,7 @@
 
 
 🌐 **Live Demo:**  
-👉 https://bhavith-fs.github.io/TaskNet
+👉 https://resumeranker-alpha.vercel.app/
 
 
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
