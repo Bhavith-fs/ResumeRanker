@@ -21,3 +21,6 @@ export function createServer() {
 
   return app;
 }
+
+// For Vercel serverless functions
+export default createServer();
