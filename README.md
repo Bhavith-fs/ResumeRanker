@@ -4,6 +4,11 @@
 
 *A smart AI-powered recruitment platform that analyzes, ranks, and matches resumes with job requirements.*
 
+
+🌐 **Live Demo:**  
+👉 https://bhavith-fs.github.io/TaskNet
+
+
 ![Python](https://img.shields.io/badge/Python-Backend-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AI](https://img.shields.io/badge/AI-NLP-orange?style=for-the-badge)
 ![Web](https://img.shields.io/badge/Web-FullStack-blue?style=for-the-badge)
