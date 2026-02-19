@@ -153,7 +153,7 @@ This project demonstrates:
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
 **Bhavith Madhav**  
 Cybersecurity & Network Security Enthusiast 
